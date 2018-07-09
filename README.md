@@ -1,5 +1,5 @@
 # ML-LiverDisease
-:computer: Supervised Learning for liver disease classification
+:computer: Supervised learning for liver disease classification
 
 This repository contains the ipython notebook for my paper on liver disease classification using supervised learning techniques.
 (please see PDF version of notebook if ipynb not loading). It also contains the paper: 'ILPD_paper.pdf'.
